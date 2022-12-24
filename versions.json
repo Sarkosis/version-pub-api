@@ -1,5 +1,5 @@
 {
-  "ban_database": "1.0.0",
+  "bandb": "1.0.0",
   "ticket_bot:": "1.6.0",
   "dev_bot": "2.3.0",
   "music_bot": "2.0.0",
